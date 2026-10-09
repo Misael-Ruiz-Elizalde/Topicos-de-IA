@@ -1,2 +1,2 @@
-# T-picos-de-IA
+# Topicos-de-IA
 Tareas/Proyecto Tópicos de IA
